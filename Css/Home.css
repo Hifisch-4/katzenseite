@@ -1,0 +1,127 @@
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+}
+.navbar-top{
+    background-color: darkgray;
+    
+}
+.Left-Top-Corner-Logo{
+    margin-left: 30px;
+}
+.Clickable-Text{
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+}
+.Left-Top-Corner-Logo a{
+    font-size: 22px;
+}
+.Top-Link{
+    color: black;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+}
+.blue{
+    color: deepskyblue;
+}
+.Welcome-Title{
+    margin-left: 45px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.Welcome-Description{
+    margin-left: 65px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+.Images-Title{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.Images-Description{
+    margin-left: 65px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+.Images-Main{
+    margin-left: 75px;
+    margin-top: 10px;
+}
+.Learn-Title{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.Learn-Description{
+    margin-left: 65px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+.Learn-Main{
+    margin-left: 75px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+.Learn-Races-Title{
+    font-size: 22px;
+}
+.Learn-Races-Description{
+    font-size: 17px;
+    margin-left: 15px;
+}
+.Characteristics{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.Learn-General{
+    margin-top: 15px;
+}
+.Learn-General-Title{
+    font-size: 22px;
+}
+.Learn-General-Description{
+    font-size: 18px;
+    margin-left: 15px;
+}
+.Learn-Feeding-Title{
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.Learn-Feeding-Description{
+    margin-left: 30px;
+}
+.Learn-Feeding-Main{
+    margin-left: 35px;
+    margin-top: 5px;
+}
+.Learn-Feeding-Age-List-Description{
+    margin-top: 10px;
+}
+.Learn-Feeding-Age-List{
+    margin-top: 10px;
+}
+.Learn-Feeding-Bad-Food-List{
+    margin-top: 10px;
+}
+.Learn-Footer{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.Beta-Symbol{
+    font-size: 14px;
+    color: white;
+    background-color: red;
+    padding: 7px;
+    border-radius: 100px;
+    font-weight: bold;
+}
+.bold{
+    font-weight: bold;
+}

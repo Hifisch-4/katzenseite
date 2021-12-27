@@ -1,0 +1,82 @@
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+}
+.navbar-top{
+    background-color: darkgray;
+    
+}
+.Left-Top-Corner-Logo{
+    margin-left: 30px;
+}
+.Clickable-Text{
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+}
+.Left-Top-Corner-Logo a{
+    font-size: 22px;
+}
+.Top-Link{
+    color: black;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+}
+.Welcome-Title{
+    margin-left: 45px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.Welcome-Description{
+    margin-left: 65px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+.Learn-Races{
+    margin-left: 50px;
+}
+.Learn-Races-Title{
+    margin-top: 10px;
+    font-size: 22px;
+}
+.Learn-Races-Description{
+    font-size: 17px;
+    margin-left: 15px;
+}
+.Learn-Races-Characteristics{
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.Learn-Races-Characteristics-Description{
+    font-size: 17px;
+}
+.Learn-Races-Characteristics-Images{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.Learn-Races-Characteristics-Text-Title{
+    font-size: 20px;
+}
+.Learn-Races-Characteristics-Text-Cat1{
+    margin-left: 5px;
+}
+.Learn-Races-Characteristics-Text-Cat1-Title{
+    font-size: 18px;
+}
+.Learn-Races-Characteristics-Text-Cat2{
+    margin-left: 5px;
+    margin-top: 7px;
+}
+.Learn-Races-Characteristics-Text-Cat2-Title{
+    font-size: 18px;
+}
+.blue{
+    color: deepskyblue;
+}
+.bold{
+    font-weight: bold;
+}
